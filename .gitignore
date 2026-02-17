@@ -1,0 +1,59 @@
+
+# ==============================
+# Entorno / Variables sensibles
+# ==============================
+.env
+.env.*
+*.env
+
+# ==============================
+# Archivos compilados Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Entornos virtuales
+# ==============================
+venv/
+.env/
+env/
+ENV/
+.venv/
+
+# ==============================
+# Archivos de distribución
+# ==============================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ==============================
+# Archivos de cache y testing
+# ==============================
+.pytest_cache/
+.mypy_cache/
+.cache/
+coverage.xml
+htmlcov/
+.tox/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints
+
+# ==============================
+# IDEs
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# Sistema operativo
+# ==============================
+.DS_Store
+Thumbs.db
+
