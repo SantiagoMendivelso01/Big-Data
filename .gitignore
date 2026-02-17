@@ -6,12 +6,6 @@
 .env.*
 *.env
 
-# ==============================
-# Archivos compilados Python
-# ==============================
-__pycache__/
-*.py[cod]
-*$py.class
 
 # ==============================
 # Entornos virtuales
